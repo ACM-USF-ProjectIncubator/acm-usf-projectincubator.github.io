@@ -31,3 +31,17 @@ Two things to note here:
 1. [HTML5Up](https://html5up.net/)
 2. [PicoCSS](https://picocss.com/)
 3. [TechNext Templates](https://technext.github.io/100-template-bundle/)
+
+Credits:
+    Design:
+        HTML5 UP (html5up.net)
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
