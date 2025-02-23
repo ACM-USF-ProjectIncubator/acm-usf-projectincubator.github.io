@@ -4,21 +4,15 @@ This repository provides a guide on how to get started with GitHub Pages to show
 Things we'll be covering:
 1. How to set up GitHub Pages
 2. Setting up a basic website (Using templates! No need to reinvent the wheel... Unless you want to)
-3. What is a static website?
+3. Understanding what we've yoinked off the internet (respectfully, crediting the creators)
+    - How do we edit the code to fit our needs?
+4. What is a static website?
     - Are there other kinds of websites? 
     - Are there limitations?
 
 Feel free to clone this repository and customise your website to your heart's desire!
 
-# Layout of Repository
-```
-.
-├── index.html          # Website landing page
-├── style.css           # Layout of website
-├── assets/             # Images and audio used for website
-└── README.md
-```
-Two things to note here:
+Things to note:
 1. We'll be configuring our GitHub Pages site to be built from the root of our master branch
 2. While it's not necessary to name the folder of your assets as ```assets/```, it is convention!
 
@@ -32,7 +26,11 @@ Two things to note here:
 2. [PicoCSS](https://picocss.com/)
 3. [TechNext Templates](https://technext.github.io/100-template-bundle/)
 
-Credits:
+
+
+# Credits
+* It's very important to give thanks to the people who made our lives easier! 
+    
     Design:
         HTML5 UP (html5up.net)
 
