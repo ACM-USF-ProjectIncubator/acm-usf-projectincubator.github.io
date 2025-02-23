@@ -38,3 +38,5 @@ This is just an info dump of what I've figured out in the processing of reading 
     * GitHub pages only accepts absolute links
     * I could probably organise them better, but I'll just leave all the HTML pages lying around for now
 4. Included links to social media
+5. Reformatted the HTML pages (Events pages now have feature boxes)
+6. Changed background colour of logo in main.css to USF green, and text colour to USF gold
