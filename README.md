@@ -1,5 +1,5 @@
 # Introduction
-This repository provides a guide on how to get started with GitHub Pages to showcase your achievements to the world! This tutorial does not use Jekyll because it requires the additional downloading of Ruby, and is not currently supported for Windows.
+This repository provides a guide on how to get started with GitHub Pages to showcase your achievements to the world! This tutorial does not use Jekyll because it requires the additional downloading of Ruby, and is not currently supported for Windows. I'll also be using VSCode for the demonstration. There's a VSCode extension called "Live Server" that allows you to view your changes to the website just by saving, making it super convenient for debugging.
 
 Things we'll be covering:
 1. How to set up GitHub Pages
@@ -25,8 +25,6 @@ Things to note:
 1. [HTML5Up](https://html5up.net/)
 2. [PicoCSS](https://picocss.com/)
 3. [TechNext Templates](https://technext.github.io/100-template-bundle/)
-
-
 
 # Credits
 * It's very important to give thanks to the people who made our lives easier! 
