@@ -34,3 +34,7 @@ This is just an info dump of what I've figured out in the processing of reading 
 1. Fix the logos (index.html, no-sidebar.html) to say "ACM USF" instead of Verti
     * Will also change logo colour to be USF green
 2. Deleted left-sidebar.html, right-sidebar.html because I won't be using them
+3. Created new html pages for each item on the nav bar (home, upcoming events, previous events, about us)
+    * GitHub pages only accepts absolute links
+    * I could probably organise them better, but I'll just leave all the HTML pages lying around for now
+4. Included links to social media
