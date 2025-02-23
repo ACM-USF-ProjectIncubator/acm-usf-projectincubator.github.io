@@ -3,7 +3,7 @@ This repository provides a guide on how to get started with GitHub Pages to show
 
 Things we'll be covering:
 1. How to set up GitHub Pages
-2. Setting up a basic website (Using templates! No need to reinvent the wheel... Unless you want to:tada:)
+2. Setting up a basic website (Using templates! No need to reinvent the wheel... Unless you want to)
 3. What is a static website?
     - Are there other kinds of websites? 
     - Are there limitations?
