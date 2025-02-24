@@ -19,7 +19,7 @@ Things to note:
 # Links to Resources
 ## Setup Guides
 1. [GitHub Pages Quickstart](https://docs.github.com/en/pages/quickstart)
-2. [Google Slides]()
+2. [Google Slides](https://docs.google.com/presentation/d/1G2oQwpn2G0aFNUUHyoU-NQMycfYEZ6w2HtB-FXOIQVk/edit?usp=sharing)
 
 ## HTML Templates
 1. [HTML5Up](https://html5up.net/)
